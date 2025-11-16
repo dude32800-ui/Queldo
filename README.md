@@ -1,20 +1,8 @@
 # Queldo - Skill Share Marketplace
 
+## CURSOR HAS BEEN USED TO ENHANCE CODE AND GIVE IDEAS, AS WELL AS PROVIDE INLINE DOCUMENTATION COMMENTS.
+
 A modern skill-sharing platform for students aged 13-18 to connect, learn, and collaborate.
-
-## About This Project
-
-Queldo is a peer-to-peer skill exchange platform designed specifically for students aged 13-18. The platform addresses a critical gap in traditional education by enabling students to learn from each other through direct skill trading, rather than relying solely on formal instruction or expensive tutoring services.
-
-**Why Queldo Matters:**
-
-In today's rapidly evolving educational landscape, students often find themselves needing to learn skills that aren't covered in their standard curriculum—whether it's coding, graphic design, music production, or even study techniques. Traditional learning resources can be expensive, time-consuming, or simply not tailored to a student's learning style. Queldo bridges this gap by creating a community where students can teach what they know and learn what they need, all within a safe, age-appropriate environment.
-
-The platform operates on a skill-trading model where students can post listings for skills they're willing to teach and browse opportunities to learn from peers. An intelligent matching algorithm connects students with complementary skills—someone who wants to learn web development might be matched with a peer who can teach it and wants to learn graphic design in return. This creates a sustainable learning ecosystem where knowledge flows freely between students.
-
-Beyond simple skill exchange, Queldo incorporates gamification elements like leaderboards and badges to recognize active contributors, fostering a sense of community and encouraging continued participation. Real-time features including video calls, voice chat, and collaborative whiteboards enable interactive learning sessions that go beyond text-based communication.
-
-The platform prioritizes safety and age-appropriateness, with built-in verification systems, portfolio showcases, and a review system that helps students make informed decisions about their learning partners. By empowering students to take control of their education and learn from each other, Queldo not only facilitates skill acquisition but also builds confidence, communication skills, and a collaborative mindset that will serve them well beyond their school years.
 
 ## Features
 
@@ -75,4 +63,5 @@ queldo/
 │   └── database/      # Database schema and migrations
 └── public/            # Static assets
 ```
+
 
