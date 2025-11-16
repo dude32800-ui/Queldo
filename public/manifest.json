@@ -1,0 +1,17 @@
+{
+  "name": "Queldo - Skill Share Marketplace",
+  "short_name": "Queldo",
+  "description": "Connect with students, share skills, and learn together",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#9333ea",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
+
