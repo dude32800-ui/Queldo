@@ -1,16 +1,16 @@
 # Queldo - Skill Share Marketplace
 
-## CURSOR HAS BEEN USED TO ENHANCE CODE AND GIVE IDEAS, AS WELL AS PROVIDE INLINE DOCUMENTATION COMMENTS.
+## **CURSOR HAS BEEN USED TO ENHANCE CODE AND GIVE IDEAS, AS WELL AS PROVIDE INLINE DOCUMENTATION COMMENTS.**
 
 A modern skill-sharing platform for students aged 13-18 to connect, learn, and collaborate.
 
 ## Features
 
-- 🎯 **Skill Matching Algorithm** - AI-powered matching based on complementary skills
-- ✅ **Skill Verification & Portfolio** - Showcase your work and verify your skills
-- 🏆 **Time Banking & Leaderboard** - Track contributions and see top contributors
-- 💬 **Interactive Learning Sessions** - Real-time skill sharing with video/voice
-- 🔔 **Smart Notifications** - Get notified about matches and opportunities
+-  **Skill Matching Algorithm** - AI-powered matching based on complementary skills
+-  **Skill Verification & Portfolio** - Showcase your work and verify your skills
+-  **Time Banking & Leaderboard** - Track contributions and see top contributors
+-  **Interactive Learning Sessions** - Real-time skill sharing with video/voice
+-  **Smart Notifications** - Get notified about matches and opportunities
 
 ## Tech Stack
 
@@ -63,5 +63,6 @@ queldo/
 │   └── database/      # Database schema and migrations
 └── public/            # Static assets
 ```
+
 
 
