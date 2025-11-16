@@ -16,7 +16,7 @@ npm install
 
 ### 2. Set Up Database
 
-**📖 For detailed PostgreSQL setup instructions, see [POSTGRES_SETUP.md](./POSTGRES_SETUP.md)**
+** Set up Postgressql
 
 #### Quick Setup (Recommended)
 
@@ -168,4 +168,5 @@ queldo/
 - Check browser console and server logs for debugging
 - Socket.io events are set up but need user authentication integration
 - All mock data can be replaced with actual API calls
+
 
